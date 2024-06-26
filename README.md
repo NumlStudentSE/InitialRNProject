@@ -51,14 +51,4 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
 
-## Project Output
 
-# Splash Screen
-
-![image](https://github.com/NumlStudentSE/InitialRNProject/assets/114599159/e94d2ee5-5735-46e4-8976-da10bb12c815)
-
-# Add Goal Screen (Android vs iOS)
-
-![image](https://github.com/NumlStudentSE/InitialRNProject/assets/114599159/36df5c91-5d47-463a-8b11-becc1c1edd78)
-
-![image](https://github.com/NumlStudentSE/InitialRNProject/assets/114599159/137823b8-fd11-4252-ab4d-6178ba5e59ba)
